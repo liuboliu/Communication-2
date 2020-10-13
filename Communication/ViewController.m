@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    nslog
+    NSString *kk = @"更耐心更新更新更新";
+    NSLog(@"打印打印打印打印打印");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
