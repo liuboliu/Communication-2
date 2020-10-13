@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    nslog
+    NSString *kk = @"更耐心更新更新更新";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
